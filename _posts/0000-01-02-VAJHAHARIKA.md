@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+Hey
+Hi
+I love coding!
+This is so much fun!
+Would like to meet other tech-enthusiasts too!!!
